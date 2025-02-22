@@ -15,7 +15,7 @@ year = ['23', '24', '25', '26', '27', '28', '29']
 
 
 
-try:
+try:4716878376226292|10/25|194
 	number = 23
 	second_num = 0
 	start_digit = str(random.choice([34, 37, 4, 5, 6]))
